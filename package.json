@@ -1,0 +1,24 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Look up stuff on music and arts stuff",
+  "main": "liri.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Garrett Straight",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
