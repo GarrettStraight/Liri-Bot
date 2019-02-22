@@ -1,4 +1,9 @@
 # Liri-Bot
+Clone this repository onto your computer.
+Then run npm install in directory created.
+once all files updated.
+run: node server.js
+
 Grab arts and entertainment stuff
 
 This little Liri Bot searches twitter feeds:
