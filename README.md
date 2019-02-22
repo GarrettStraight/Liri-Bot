@@ -1,8 +1,10 @@
 # Liri-Bot
 Clone this repository onto your computer.
+<br>
 Then run npm install in directory created.
-once all files updated.
-run: node server.js
+<br>
+Once all files updated.
+run: node liri.js from command line
 
 Grab arts and entertainment stuff
 
