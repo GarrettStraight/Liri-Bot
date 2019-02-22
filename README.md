@@ -1,6 +1,6 @@
 # Liri-Bot
 Clone this repository onto your computer.
-<br>
+<br>https://github.com/GarrettStraight/Liri-Bot<br><br>
 Then run npm install in directory created.
 <br>
 Once all files updated.
